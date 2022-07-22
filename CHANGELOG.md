@@ -1,5 +1,15 @@
 # @primer/css
 
+## 20.3.0
+
+### Minor Changes
+
+- [#2147](https://github.com/primer/css/pull/2147) [`9dd2a49e`](https://github.com/primer/css/commit/9dd2a49e2633f337c2316a43907f17dfd5c3173b) Thanks [@vdepizzol](https://github.com/vdepizzol)! - Add AppFrame component
+
+### Patch Changes
+
+- [#2083](https://github.com/primer/css/pull/2083) [`13be7ef1`](https://github.com/primer/css/commit/13be7ef18d2d9874e7a08f20d9f93538752517c6) Thanks [@simurai](https://github.com/simurai)! - Add `SegmentedControl` component
+
 ## 20.2.4
 
 ### Patch Changes
